@@ -1,0 +1,5 @@
+2024-07-27 13:50:25,127:INFO:Configuration file saved
+2024-07-27 13:50:55,722:INFO:Opened website: https://www.youtube.com,https://www.naver.com
+2024-07-27 13:51:12,685:ERROR:Error reading configuration file: Expecting value: line 3 column 14 (char 84)
+2024-07-27 13:51:27,315:INFO:Opened website: https://www.youtube.com
+2024-07-27 13:51:29,486:INFO:Opened website: https://www.naver.com
